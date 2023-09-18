@@ -42,7 +42,7 @@ curl <http://localhost:8000/list>
 
 ### Пример ответа
 
-![Image screen](https://github.com/AlexandrTomashevich/Task_Queue_Service/blob/main/Снимок%20экрана%202023-09-18%20в%2011.46.15.png
+![Image screen](https://github.com/AlexandrTomashevich/Task_Queue_Service/blob/main/Снимок%20экрана%202023-09-18%20в%2011.46.15.png)
 
 ### Зависимости
 
